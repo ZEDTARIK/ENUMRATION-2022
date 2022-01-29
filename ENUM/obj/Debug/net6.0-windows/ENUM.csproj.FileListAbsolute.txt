@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ENUM.exe
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ENUM.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ENUM.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ENUM.dll
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ref\ENUM.dll
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\bin\Debug\net6.0-windows\ENUM.pdb
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.dll
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ref\ENUM.dll
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.pdb
+C:\Users\ASUS\Desktop\Projects\C#\ENUM\ENUM\obj\Debug\net6.0-windows\ENUM.genruntimeconfig.cache
